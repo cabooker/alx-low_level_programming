@@ -1,8 +1,13 @@
 #include <stdio.h>
-main()
+
+/**
+ * main - Entry point
+ *
+ * Return : Always 0 (Success)
+ */
+
+int main(void)
 {
-	char message[] = "Programming is like building a multilingual puzzle,\n";
-	
-		puts(message);
-		
+	puts("Programming is like building a multilingual puzzle,");
+	return (0);
 }
