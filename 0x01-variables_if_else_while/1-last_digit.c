@@ -5,9 +5,9 @@
 #include <stdio.h>
 /* more headers goes there */
 /**
- * main - Will assign a random number to the variable n each time it is executed and print the last digit of the number stored in the variable n.
- *
+ * main -> Will print last digit of executed variable
  * Return - always 0 (success)
+ */
 
 /* betty style doc for function main goes there */
 
@@ -30,7 +30,7 @@ int main(void)
 	{
 		printf("0");
 	}
-	if (n < 6 && n !=0)
+	if (n < 6 && n != 0)
 	{
 		printf("less than 6not 0");
 	}
