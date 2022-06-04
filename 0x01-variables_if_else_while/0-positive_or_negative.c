@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 
-/* more headers goes there */
+
 /**
  * main - Assign random number to variable for execution
  *

@@ -3,7 +3,7 @@
 #include <time.h>
 
 #include <stdio.h>
-/* more headers goes there */
+
 /**
  * main -> Will print last digit of executed variable
  * Return - always 0 (success)
