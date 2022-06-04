@@ -6,15 +6,11 @@
 
 #include <stdio.h>
 
-
 /**
- * main - Assign random number to variable for execution followed by new line
+ * main - assigns random number to variable for execution and then new line
  *
- * Return : Always 0 (Success)
+ * Return: Always 0
  */
-
-
-/* betty style doc for function main goes there */
 
 int main(void)
 
