@@ -10,7 +10,7 @@
 /**
  * main - Assign random number to variable for execution
  *
- * Return -Always 0 (Success)
+ * Return : Always 0 (Success)
  */
 
 
