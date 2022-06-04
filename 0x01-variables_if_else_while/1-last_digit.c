@@ -7,8 +7,8 @@
 /**
  * main -> Will print last digit of executed variable
  *
- * Return : always 0 (success)
- */
+ * Return: Always 0 (success)
+*/
 
 /* betty style doc for function main goes there */
 
