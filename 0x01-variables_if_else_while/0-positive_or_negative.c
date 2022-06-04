@@ -8,7 +8,7 @@
 
 
 /**
- * main - Assign random number to variable for execution
+ * main - Assign random number to variable for execution followed by new line
  *
  * Return : Always 0 (Success)
  */
