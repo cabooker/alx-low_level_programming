@@ -3,7 +3,7 @@
 /**
 *main - Prints all numbers of base 16 in lowercase
 *
-*Return: always 0 
+*Return: always 0
 */
 int main(void)
 {
@@ -21,4 +21,3 @@ putchar(ch);
 putchar(10);
 
 return (0);
-} 
