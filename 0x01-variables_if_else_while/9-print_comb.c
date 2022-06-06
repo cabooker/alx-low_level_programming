@@ -8,13 +8,17 @@
 
 int main(void)
 {
-int ch;
-for (ch = 48; ch <= 57; ch++)
-{
-putchar(ch);
-if (ch != 57)
-putchar(44);
-putchar(32);
-}
+int i = 0;
 
+while (i <= 9)
+{
+putchar(i);
+if (i != 9)
+{
+putchar(',');
+putchar(' ');
+}
+i++;
+}
+putchar("\n");
 return (0); }
